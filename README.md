@@ -26,7 +26,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :zap: In my free time, I make websites 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/dias-izbagambetov-19818b279/)](your-linkedin-url)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
