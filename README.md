@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/dias-izbagambetov-19818b279/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://steamcommunity.com/id/dissasterioz/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Steam_logo.svg/512px-Steam_logo.svg.png?20151224073137" alt="Steam Badge" width="30" height="70"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -26,7 +23,9 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I make websites 
+- :zap: In my free time, I make websites
+
+- :video_game: My steam: [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/dissasterioz/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dias-izbagambetov-19818b279/)
 ---
