@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://steamcommunity.com/id/dissasterioz/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Steam_logo.svg/512px-Steam_logo.svg.png?20151224073137" alt="Steam Badge" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Steam_logo.svg/512px-Steam_logo.svg.png?20151224073137" alt="Steam Badge" width="30" height="40"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
