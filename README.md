@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ku4a10&theme=github_dark&exclude={exclude}" alt="GitHub Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ku4a10&theme=tokyonight&exclude={exclude}" alt="GitHub Stats">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ku4a10&show_icons=true&theme=tokyonight" alt="GitHub Stats">
