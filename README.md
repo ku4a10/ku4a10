@@ -14,17 +14,18 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m studying at the Technical University of Kosice
+<div>
+  <h3>:woman_technologist: About Me :</h3>
+  <p>I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+  <ul>
+    <li>:telescope: I’m studying at the Technical University of Kosice</li>
+    <li>:seedling: Exploring Technical Content Writing.</li>
+    <li>:zap: In my free time, I make websites</li>
+    <li>:video_game: My steam: <a href="https://steamcommunity.com/id/dissasterioz/"><img src="https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white" alt="Steam"></a></li>
+    <li>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/dias-izbagambetov-19818b279/"><img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a></li>
+  </ul>
+</div>
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I make websites
-
-- :video_game: My steam: [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/dissasterioz/)
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dias-izbagambetov-19818b279/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
