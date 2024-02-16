@@ -39,7 +39,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="DOCKER" alt="DOCKER" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ku4a10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ku4a10&show_icons=true&theme=tokyonight)
 ---
