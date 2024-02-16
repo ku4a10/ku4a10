@@ -44,9 +44,16 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ku4a10&theme=github_dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ku4a10&show_icons=true&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ku4a10&theme=github_dark" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ku4a10&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    </td>
+  </tr>
+</table>
 
 ---
 
