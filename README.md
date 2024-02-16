@@ -46,6 +46,8 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ku4a10&show_icons=true&theme=tokyonight)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ku4a10&theme=github_dark)
+
 ---
 
 ### :writing_hand: Blog Posts :
