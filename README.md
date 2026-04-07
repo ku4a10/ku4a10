@@ -19,7 +19,7 @@
 
 <div>
   <h3>:woman_technologist: About Me :</h3>
-  <p>I am a Data Scientist| Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+  <p>I am a Data Scientist| Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
   <ul>
     <li>:telescope: I’m studying at the Technical University of Kosice</li>
     <li>:seedling: Exploring Technical Content Writing.</li>
