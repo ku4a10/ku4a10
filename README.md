@@ -19,11 +19,11 @@
 
 <div>
   <h3>:woman_technologist: About Me :</h3>
-  <p>I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+  <p>I am a Data Scientist| Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
   <ul>
     <li>:telescope: I’m studying at the Technical University of Kosice</li>
     <li>:seedling: Exploring Technical Content Writing.</li>
-    <li>:zap: In my free time, I make websites</li>
+    <li>:zap: In my free time, I learning something new</li>
     <li>:video_game: My steam: <a href="https://steamcommunity.com/id/dissasterioz/"><img src="https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white" alt="Steam"></a></li>
     <li>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/dias-izbagambetov-19818b279/"><img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a></li>
   </ul>
@@ -34,15 +34,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    </td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
     </td>
